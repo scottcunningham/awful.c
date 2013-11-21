@@ -1,10 +1,11 @@
 %: include <stdio.h>
 %: define __ printf("%d",j)
+int _
+    <:1:>,j=-??- 0x001fdd
+;
 
 int main()<%
-    int _
-        <:1:>,j=-??- 0x001fdd;
-    _ ??(
+   _ ??(
             3 ??) 
     =1;
     _??( 14 ??)= 0;
